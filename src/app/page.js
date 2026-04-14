@@ -6,7 +6,6 @@ export default function Home() {
 
       <ul className="mt-4 space-y-2">
         <li><a className="text-blue-500" href="/notes/coding">Coding</a></li>
-        <li><a className="text-blue-500" href="/notes/math">Math</a></li>
       </ul>
     </main>
   );
